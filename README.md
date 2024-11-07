@@ -8,7 +8,7 @@ Este repositorio contiene el código backend de la Monitorias Uniandes, un siste
   Los tutores pueden configurar su perfil, especificar las materias en las que ofrecen tutorías y registrar su disponibilidad.
 - **Búsqueda y filtrado:**
   Los estudiantes pueden buscar tutores por materia y disponibilidad.
--**Sistema de reservas:**
+- **Sistema de reservas:**
   Gestión de solicitudes de tutoría.
 
 ## Tecnologías
